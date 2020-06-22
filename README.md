@@ -23,5 +23,5 @@
 - [x] OSX liek GUI
 
 ## Issues
-ß
+
 Can't wake up from usb, but power button works. Maybe Bios seeting has some problems.
