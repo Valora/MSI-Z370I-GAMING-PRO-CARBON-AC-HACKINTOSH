@@ -20,6 +20,7 @@
 - [x] Graphics by [WhateverGreen](https://github.com/acidanthera/WhateverGreen)
 - [x] iMessage / FaceTime / Airdrop / Handoff
 - [x] Sleep
+- [x] OSX liek GUI
 
 ## Issues
 ß
